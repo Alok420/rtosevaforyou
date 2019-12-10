@@ -1,0 +1,12 @@
+[29-Nov-2019 17:29:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php on line 12
+[29-Nov-2019 17:29:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php on line 12
+[29-Nov-2019 17:29:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/justpkpj/public_html/wesoftech.com/rtosevaforyou/controller/api1/common/selectOneByColumn.php on line 12
